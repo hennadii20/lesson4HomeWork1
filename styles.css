@@ -1,0 +1,52 @@
+.container {
+    width: 900px;
+    margin: 100px auto;
+    border: 1px solid black;
+}
+
+header {
+    background-color: #A52A2A;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+
+.mainImg {
+    width: 100%;
+    height: auto;
+}
+
+p {
+    font-size: 18px;
+}
+
+.word1 {
+    color: #3A15FF;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.word2 {
+    color: #0608FF;
+}
+
+table {
+
+    margin: auto;
+
+}
+
+td {
+    float: right;
+    border: 5px dashed;
+    border-collapse: collapse;
+}
+
+.paragraFoot {
+    text-align: center;
+    background-color: #000000;
+    color: #FBFFFF;
+    font-size: 20px;
+}
